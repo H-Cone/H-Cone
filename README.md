@@ -34,7 +34,7 @@ I'm a Computer Science student at **LAUTECH** and a web development student at *
 ### 🤝 Connect With Me
 
 * **GitHub:** [@H-Cone](https://github.com/H-Cone)
-* **LinkedIn:** [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+* **LinkedIn:** www.linkedin.com/in/enoch-adegbola-b68798312
 
 ---
 
