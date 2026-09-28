@@ -18,6 +18,7 @@ I'm a Computer Science student at **LAUTECH** and a web development student at *
 * CSS3
 * JavaScript
 * React
+* Tailwind CSS
 * Bootstrap
 
 **Backend**
